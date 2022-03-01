@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great Turks terrible challenge, this yeare 1640. Pronounced against the Emperour of Germany and the King of Poland by Soloma Hometh who lately deceased, but continued by his brother Ibraim, the first of that name. To the tune of My bleeding heart, or Lets to the wars againe.</title>
+            <author>Süleyman I, Sultan of the Turks, 1494 or 5-1566.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00767</idno>
+            <idno type="STC">STC 23424.7</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[2]</idno>
+            <idno type="EEBO-CITATION">99892872</idno>
+            <idno type="PROQUEST">ocm99892872</idno>
+            <idno type="VID">182259</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00767)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182259)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great Turks terrible challenge, this yeare 1640. Pronounced against the Emperour of Germany and the King of Poland by Soloma Hometh who lately deceased, but continued by his brother Ibraim, the first of that name. To the tune of My bleeding heart, or Lets to the wars againe.</title>
+                  <author>Süleyman I, Sultan of the Turks, 1494 or 5-1566.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill (metalcuts) :.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Harper at the Bible [and Harp in Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1640]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by STC to Süleyman I (The Magnificent).</note>
+                  <note>Date of publication from STC.</note>
+                  <note>Verse: "You that ocurs strange newes to heare ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>At head of second part: The second part to the same tune·</note>
+                  <note>Imperfect: mutilated, affecting text, imprint, and ill..</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Süleyman --  I, --  Sultan of the Turks, 1494 or 5-1566 --  Early works to 1800.</term>
+               <term>Murad --  IV, --  Sultan of the Turks, 1612-1640 --  Early works to 1800.</term>
+               <term>İbrahim, --  Sultan of the Turks, 1615-1648 --  Early works to 1800.</term>
+               <term>Turkey --  History --  1453-1683 --  Early works to 1800.</term>
+               <term>Venice (Italy) --  History --  Turkish Wars, 17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182259:1"/>
+            <!-- PDF PAGE 20 -->
+            <head>The Great Turks terrible Challenge, this yeare 1640. Pronounced againſt the Emperour of Germany and the King of Poland by <hi>Soloma Hometh</hi> who lately deceaſed, but continued by his bro<g ref="char:EOLhyphen"/>ther <hi>Ibraim,</hi> the firſt of that name.</head>
+            <opener>To the tune of My bleeding heart, or Lets to the wars againe.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>YOu that deſire ſtrange newes to heare,</l>
+                  <l>Vnto my ſtory now give ears,</l>
+                  <l>Great warres there is pronouncd of late,</l>
+                  <l>By him who doth all Chriſtians hate:</l>
+                  <l>Gainſt Romes Imperiall Maieſty,</l>
+                  <l>And King of Poland joyning nigh,</l>
+                  <l>By the great Turk who would devoure,</l>
+                  <l>Each Chriſtian kingdome by his power.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Soloma Hometh</hi> called ſo,</l>
+                  <l>This Tirant grat and Chriſtians foe,</l>
+                  <l>At thrée and thirty yéeres of age,</l>
+                  <l>Death finiſht vp his dayes and rage:</l>
+                  <l>Yet for all that their Turkiſh hate,</l>
+                  <l>Gainſt Chriſtian kings doth naught abate,</l>
+                  <lg type="refrain">
+                     <l>But God deliver Chriſtians all,</l>
+                     <l>That they by ſuch do never fall.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Though death did happily prevent,</l>
+                  <l>The cruell Tirants bad intent,</l>
+                  <l>Yet hée which doth him now ſuccéed,</l>
+                  <l>More terrors to the world doth bréed:</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hoſe bloody purpoſe is inclinde,</l>
+                  <l>To proſecute as twas deſignd,</l>
+                  <l>The Chriſtian kingdomes to devoure,</l>
+                  <l>But God confound the Pegans power.</l>
+               </lg>
+               <lg>
+                  <l>With fearfull ſentence challenging,</l>
+                  <l>Romes Emperor, and Polands king,</l>
+                  <l>Their Princes, Péeres, and Pope alſo,</l>
+                  <l>With all that there adjoynes unto:</l>
+                  <l>For by their kingdomes crownes they ſweare<g ref="char:punc">▪</g>
+                  </l>
+                  <l>To come before their Cities there,</l>
+                  <lg type="refrain">
+                     <l>But God deliver Chriſtians all,</l>
+                     <l>That they by ſuch do never fall.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And will with thirteen kingdomes riſe</l>
+                  <l>The Chriſtian world for to ſurpriſe,</l>
+                  <l>Full thirten hundred thouſand ſtrong</l>
+                  <l>Of Turkiſh powers to march along,</l>
+                  <l>With full intention to ſubdue,</l>
+                  <l>The Chriſtian princes with this crew,</l>
+                  <lg type="refrain">
+                     <l>But God deliver Chriſtians all,</l>
+                     <l>That they by ſuch do never fall.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Nay more ſay they, behold at length</l>
+                  <l>With all our great Imperiall ſtrength,</l>
+                  <l>Such as by you was never ſéen,</l>
+                  <l>Nor yet in any kingdome béen:</l>
+                  <l>Wéell come your nations to deſtroy,</l>
+                  <l>Which you ſhall never more injoy,</l>
+                  <lg type="refrain">
+                     <l>But God, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>With mighty power for to ſubdue,</l>
+                  <l>The Germane Emperor, and purſue</l>
+                  <l>Him to the end with fire and ſword,</l>
+                  <l>And tiranny to be abhord:</l>
+                  <l>Alſo the Polanders devoure,</l>
+                  <l>With force of armes and Pagans powre,</l>
+                  <lg type="refrain">
+                     <l>But God deliver Chriſtians all,</l>
+                     <l>That they by ſuch doe never fall.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond Part</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THey give them for to underſtand,</l>
+                  <l>How they will terrifie each land,</l>
+                  <l>To rob to murther and deſtroy</l>
+                  <l>With burning all they do injoy,</l>
+                  <l>And put them to the cruelleſt death,</l>
+                  <l>That ever was devizd on earth:</l>
+                  <lg type="refrain">
+                     <l>But God deliver Chriſtians all,</l>
+                     <l>That they by ſuch do never fall.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Their bloody minds they thus reveale,</l>
+                  <l>The golden ſcepter and the ſeale,</l>
+                  <l>Of Rome ſay they wée will ſuppreſſe,</l>
+                  <l>And fill your nations with diſtreſſe,</l>
+                  <l>And thoſe ſay they we priſners take</l>
+                  <l>More worſe then dogs of them weele make</l>
+                  <lg type="refrain">
+                     <l>But God &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Turke againſt the Polands King</l>
+                  <l>Five hundred thouſand ſtrong doth bring</l>
+                  <l>And of Tartarians by him ſent</l>
+                  <l>To Wallachy Seventy thouſand went</l>
+                  <l>Which puts the country in great fear</l>
+                  <l>To ſée their enemies ſo néere:</l>
+                  <lg type="refrain">
+                     <l>But Lord &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The king of Poland for this end</l>
+                  <l>Lord Palatine to Rome did ſend</l>
+                  <l>Embaſſadors to certifie</l>
+                  <l>There enimies aproached nigh,</l>
+                  <l>In the meane time the Polander</l>
+                  <l>Great preparation makes for warre,</l>
+                  <lg type="refrain">
+                     <l>But Lord, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Turkes of Tunnis and <hi>Argier</hi>
+                  </l>
+                  <l>To aggravate the peoples feare</l>
+                  <l>With ſixty ſaile of galleys goes</l>
+                  <l>The Chriſtian kingdomes to oppoſe,</l>
+                  <l>Such preparation there is ſtill,</l>
+                  <l>As may the world with rumours fill.</l>
+                  <lg type="refrain">
+                     <l>But God, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>A</hi> greater navy there is more</l>
+                  <l>Providing neere the Turkiſh ſhore,</l>
+                  <l>Of ſhips and Gallies ſixſcore ſayle,</l>
+                  <l>Leaſt they ſhould of their purpoſe fayle.</l>
+                  <l>The Knights of <hi>Malta</hi> they likewiſe,</l>
+                  <l>For to prevent their enemies,</l>
+                  <l>The landing of the Turke to ſtop,</l>
+                  <l>Have ſtrongly blockt their Harbors up.</l>
+               </lg>
+               <lg>
+                  <l>Within five leagues the enemies,</l>
+                  <l>From the Polon<gap reason="illegible: damage" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h frontiers lies,</l>
+                  <l>Where unawares they chancſt to fall,</l>
+                  <l>On the Polonians Generall.</l>
+                  <l>Who with foure hundred men and horſe,</l>
+                  <l>Went to diſcry the Turkiſh force,</l>
+                  <l>But moſt part of his men are ſlaine,</l>
+                  <l>And he with hurt return'd againe.</l>
+               </lg>
+               <lg>
+                  <l>So that in <hi>Poland</hi> there is bred,</l>
+                  <l>By them great terror and much dread,</l>
+                  <l>For to behold their enemy,</l>
+                  <l>So ſtrong againſt their frontiers ly,</l>
+                  <l>For which they have prolaim'd a faſt,</l>
+                  <l>That God in mercy at the laſt,</l>
+                  <lg type="refrain">
+                     <l>May rid them of theſe Pagans all,</l>
+                     <l>That they by them may never fall.</l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINI<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Richard Harper</hi> at the Bible <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
